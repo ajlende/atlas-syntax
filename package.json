@@ -2,7 +2,7 @@
   "name": "nms-syntax",
   "author": "Alex Lende <ajlende@gmail.com>",
   "description": "A syntax theme based off that one No Man's Sky wallpaper",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": "https://github.com/ajlende/nms-syntax",
   "license": "MIT",
   "theme": "syntax",
