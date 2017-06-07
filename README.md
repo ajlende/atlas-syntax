@@ -2,7 +2,7 @@
 
 A colorscheme for Atom inspired by a No Man's Sky wallpaper
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/ajlende/nms-syntax/blob/master/screenshot.png)
 
 ## Wallpaper
 
